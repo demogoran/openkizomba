@@ -4,13 +4,13 @@
 
 # Описание принципов github и их практического применения
 
-[Клик сюда](https://github.com/demogoran/openkizomba/blob/master/principles.md)
+[Клик сюда](/principles.md)
 
 # Пример структуры
 
 Ветки развития:
 
-1. [Физическая](https://github.com/demogoran/openkizomba/blob/master/physics/post1.md)
-2. [Психологическая](https://github.com/demogoran/openkizomba/blob/master/psycho/post1.md)
-3. [Бизнес](https://github.com/demogoran/openkizomba/blob/master/business/post1.md)
-4. [Ораторская](https://github.com/demogoran/openkizomba/blob/master/speak/post1.md)
+1. [Физическая](/physics/post1.md)
+2. [Психологическая](/psycho/post1.md)
+3. [Бизнес](/business/post1.md)
+4. [Ораторская](/speak/post1.md)
