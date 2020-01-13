@@ -4,13 +4,13 @@
 
 # Описание принципов github и их практического применения
 
-[Клик сюда](/principles.md)
+[Клик сюда](principles.md)
 
 # Пример структуры
 
 Ветки развития:
 
-1. [Физическая](/physics/post1.md)
-2. [Психологическая](/psycho/post1.md)
-3. [Бизнес](/business/post1.md)
-4. [Ораторская](/speak/post1.md)
+1. [Физическая](physics/post1.md)
+2. [Психологическая](psycho/post1.md)
+3. [Бизнес](business/post1.md)
+4. [Ораторская](speak/post1.md)
